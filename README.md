@@ -2,7 +2,7 @@
 
 ### Technical Consultant | Temenos T24 / Transact | TPH | API Integration
 
-Technical Consultant with **6.5+ years of experience** in Temenos T24/Transact development, customization, API integration, and third-party system interfacing.
+Technical Consultant with **7 years of experience** in Temenos T24/Transact development, customization, API integration, and third-party system interfacing.
 
 Experienced in delivering **Temenos Payment Hub (TPH)** and banking solutions across international projects, with expertise in **Java, TAFJ, TAFC, InfoBasic, IRIS APIs, API integration, L3 development, data migration, defect resolution, and production support**.
 
