@@ -147,11 +147,27 @@ Participant
 
 ## 🤝 Connect With Me
 
+<hr>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/md-farid-hossain97/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Md%20Farid%20Hossain-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://mdfaridhossain.carrd.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-black?style=for-the-badge" alt="Portfolio"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/md-farid-hossain97/">
+<img src="https://img.shields.io/badge/VIEW%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://mdfaridhossain.carrd.co/">
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://drive.google.com/file/d/1dyIOp7ErX2fjQpaL52x2MXVV7d28UMyy/view?usp=sharing">
+<img src="https://img.shields.io/badge/VIEW%20CV-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white" alt="View CV">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://drive.google.com/uc?export=download&id=1dyIOp7ErX2fjQpaL52x2MXVV7d28UMyy">
+<img src="https://img.shields.io/badge/DOWNLOAD%20CV-0A66C2?style=for-the-badge&logo=download&logoColor=white" alt="Download CV">
+</a>
+
 </p>
